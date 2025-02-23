@@ -33,8 +33,6 @@
     "zod": "^3.24.1"
   },
   "maac": {
-    "host": "localhost:8000",
-    "schema": "http",
-    "project": "a9783d75-81c1-4976-90d5-e7888a067287"
+    "project": "6971ef37-0f82-4f11-a33d-421b8768703b"
   }
 }
