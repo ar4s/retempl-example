@@ -112,7 +112,7 @@ const codeContainer = {
 };
 
 const code = {
-  color: "#000",
+  color: "#0f0",
   display: "inline-block",
   fontFamily: "HelveticaNeue-Bold",
   fontSize: "32px",
