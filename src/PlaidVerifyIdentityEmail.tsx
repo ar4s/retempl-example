@@ -112,9 +112,9 @@ const codeContainer = {
 };
 
 const code = {
-  color: "#00f",
+  color: "#000",
   display: "inline-block",
-  fontFamily: "HelveticaNeue-Bold",
+  fontFamily: "HelveticaNeue-Medium,Helvetica,Arial,sans-serif",
   fontSize: "32px",
   fontWeight: 700,
   letterSpacing: "6px",
